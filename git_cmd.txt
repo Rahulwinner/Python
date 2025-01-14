@@ -1,0 +1,10 @@
+git init   #initilize git for main folder  
+git status #check status
+git add git_cmd.txt   #go to staging area
+git rm --cached git_cmd.txt  #staging area to unctract/unstaged
+git commit -m "learn github"  #staging area to commit or check point 
+git remote add origin https://github.com/Rahulwinner/Python.git  #github repository initilize
+============================================================================================================
+1)unctract/unstaged
+2)staging area
+3)check point/commit
