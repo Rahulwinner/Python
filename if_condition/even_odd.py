@@ -9,4 +9,5 @@ try:
     else:
         print("this is odd number")
 except:
-    pass
+    print("Try again...")
+    
